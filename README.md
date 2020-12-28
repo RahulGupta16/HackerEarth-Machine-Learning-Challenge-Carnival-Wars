@@ -12,8 +12,8 @@ Your task is to predict the selling price of the products based on the provided 
 ## Data Description
 The data folder consists of the following three .csv files:
 
-train.csv: (6368*15)
-test.csv: (3430*14)
+train.csv: (6368 × 15)
+test.csv: (3430 × 14)
 submission.csv
 
 ## Evaluation metric

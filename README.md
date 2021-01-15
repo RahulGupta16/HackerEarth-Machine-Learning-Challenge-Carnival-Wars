@@ -20,8 +20,8 @@ submission.csv
 
 score = max(0,100 - RMSLE(actual,predicted))
 
-## Rank: 18 / 2144 participants
+## Rank: 17th / 2144 participants
 
-![Carnivals](https://user-images.githubusercontent.com/56091634/103154517-c71eaf00-47bd-11eb-8e69-7218ecf4edaa.png)
+![carnival_certi](https://user-images.githubusercontent.com/56091634/104757838-8e05a900-5783-11eb-9cd3-5d1864ce1a72.png)
 
 ## Solution: untitled-kaggle.ipynb

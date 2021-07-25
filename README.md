@@ -18,7 +18,7 @@ submission.csv
 
 ## Evaluation metric
 
-score = max(0,100 - RMSLE(actual,predicted))
+score = max(0,100 - RMSLE(actual,predicted)), where RMSLE is Root Mean Square Log Error.
 
 ## Rank: 17th / 2144 participants
 
